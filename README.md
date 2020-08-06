@@ -1,2 +1,2 @@
 # Javascript_clock
-Just a simple clock displaying current time.
+Just a simple clock coded with javascript displaying current time.
